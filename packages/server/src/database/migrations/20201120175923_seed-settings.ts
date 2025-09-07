@@ -8,8 +8,8 @@ exports.up = (knex) => {
         title: "LogChimp",
         description: "Track user feedback to build better products",
         accentColor: "484d7c",
-        logo: "https://retm.app/wp-content/uploads/2024/07/cropped-app-logo.png",
-        icon: "https://retm.app/wp-content/uploads/2024/07/cropped-app-logo.png",
+        logo: "https://retm.app/app-logo-icon.png",
+        icon: "https://retm.app/app-logo-icon.png",
         isPoweredBy: true,
       },
     ])

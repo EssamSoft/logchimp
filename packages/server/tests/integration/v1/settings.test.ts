@@ -24,10 +24,10 @@ describe("GET /api/v1/settings/site", () => {
       "Track user feedback to build better products",
     );
     // expect(settings.logo).toBe(
-    //   "https://retm.app/wp-content/uploads/2024/07/cropped-app-logo.png",
+    //   "https://retm.app/app-logo-icon.png",
     // );
     // expect(settings.icon).toBe(
-    //   "https://retm.app/wp-content/uploads/2024/07/cropped-app-logo.png",
+    //   "https://retm.app/app-logo-icon.png",
     // );
     expect(settings.accentColor).toBe("484d7c");
     expect(settings.googleAnalyticsId).toBeNull();
