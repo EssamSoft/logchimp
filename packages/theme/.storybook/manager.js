@@ -5,5 +5,5 @@ addons.setConfig({
   theme: themes.light,
   brandTitle: "LogChimp",
   brandUrl: "https://logchimp.codecarrot.net/",
-  brandImage: "https://cdn.logchimp.codecarrot.net/logchimp_circular_logo.png",
+  brandImage: "https://retm.app/wp-content/uploads/2024/07/cropped-app-logo.png",
 });

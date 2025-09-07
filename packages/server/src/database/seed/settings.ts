@@ -10,8 +10,8 @@ export async function seed(knex) {
       title: "LogChimp",
       description: "Track user feedback to build better products",
       accentColor: "484d7c",
-      logo: "https://cdn.logchimp.codecarrot.net/logchimp_circular_logo.png",
-      icon: "https://cdn.logchimp.codecarrot.net/logchimp_circular_logo.png",
+      logo: "https://retm.app/wp-content/uploads/2024/07/cropped-app-logo.png",
+      icon: "https://retm.app/wp-content/uploads/2024/07/cropped-app-logo.png",
       isPoweredBy: true,
     },
   ]);

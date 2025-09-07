@@ -24,10 +24,10 @@ describe("GET /api/v1/settings/site", () => {
       "Track user feedback to build better products",
     );
     expect(settings.logo).toBe(
-      "https://cdn.logchimp.codecarrot.net/logchimp_circular_logo.png",
+      "https://retm.app/wp-content/uploads/2024/07/cropped-app-logo.png",
     );
     expect(settings.icon).toBe(
-      "https://cdn.logchimp.codecarrot.net/logchimp_circular_logo.png",
+      "https://retm.app/wp-content/uploads/2024/07/cropped-app-logo.png",
     );
     expect(settings.accentColor).toBe("484d7c");
     expect(settings.googleAnalyticsId).toBeNull();
